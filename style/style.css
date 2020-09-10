@@ -100,3 +100,12 @@ li button{
     outline: none;
     cursor: pointer;
 }
+.footer{
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: lightseagreen;
+  color: white;
+  text-align: center;
+}
